@@ -11,7 +11,7 @@
 
 <h2 align="center">An aspiring Game Dev and Data Scientist looking to make each day count.</h2>
 
-<p align="left">🔭 I’m currently working on my indie game which has me learning C# and making pixel art that doesn't deserve to see the light of day<br><br>🌱 I’m making projects that can expand my horizons and dabbling in every branch of tech that fascinates me at this particular point in time.<br><br>📫 To reach me email me at cosmicjellyfish2002@gmail.com or reach out to me on Discord, Instagram, LinkedIn, etc.<br><br>⚡ Fun fact: I am currently in the process of creating an army of crochet plushies but it'll be a while before they're ready.</p>
+<p align="left">🔭 I’m currently working on my indie game which has me learning C# and making pixel art<br><br>🌱 I’m making projects and dabbling in every branch of tech that fascinates me at this particular point in time<br><br>📫 To reach me email me at cosmicjellyfish2002@gmail.com or reach out to me on Discord, Instagram, LinkedIn, etc.<br><br>⚡ Fun fact: I am currently in the process of creating an army of crochet plushies but it'll be a while before they're ready</p>
 
 <br clear="both">
 <div align="center">
